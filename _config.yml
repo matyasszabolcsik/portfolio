@@ -1,0 +1,10 @@
+name: Szabolcsik Mátyás
+title: Portfólió SzM
+description: projectek
+
+markdown: kramdown
+
+remote_theme: pages-themes/dinky@v0.2.0
+plugins:
+
+show_downloads: true
