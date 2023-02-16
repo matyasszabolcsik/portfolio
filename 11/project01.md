@@ -1,8 +1,11 @@
 [VISSZA](https://matyasszabolcsik.github.io/portfolio/)
-# Skori [Vezeték Nélküli LEd meghajtó] építése / mérése
+# Skori [Vezeték Nélküli LEd meghajtó] építése / mérése.
 
 #### Kiválasztottunk egy kapcsolási rajzot amit elkészítettünk.
 ![Rajz](Wireless-led.gif "Lerajzolt rajz és az alkatrészek")
+
+#### Az áramkör lerajzolva és az alkatrészek.
+![Rajz](20230209_142558.jpg "Lerajzolt rajz és az alkatrészek")
 
 #### Az áramkörben használt alkatrészek értékei:
 
