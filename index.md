@@ -2,13 +2,9 @@
 
 
 
-<details><summary>portfólió</summary>
+<details><summary>11. évfolyam</summary>
 <p>
-#### We can hide anything, even code!
-
-```ruby
-   puts "Hello World"
-```
-
+#### 11. évfolyamon készített projectek!
+projekt [01](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
 </p>
 </details>
