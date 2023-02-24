@@ -1,10 +1,10 @@
 # 11. évfolyam
 
 ## project 01
-[Skori Vezeték Nélküli LEd meghajtó építése / mérése](/11/project01.md).
+[Skori Vezeték Nélküli LED meghajtó építése / mérése](/11/project01.md).
 
 ## project 02
-[Project](/11/project01.md).
+[Hídkapcsolás](/11/project02.md).
 
 # 12. évfolyam
 
