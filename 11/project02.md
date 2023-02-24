@@ -1,6 +1,10 @@
 [VISSZA](https://matyasszabolcsik.github.io/portfolio/)
 # Hídkapcsolás
-
+#### Project ismertetése
+#### Kiegyenlítetlen hídkapcsolás kimeneti feszültségének meghatározása
+#### a) Szimulációs méréssel (TINA)
+#### b) Valós méréssel (laborban)
+#### c) Számítás (delta/csillag átalakítással)
 #### Kapcsolási rajz
 ![Rajz](SzabolcsikMatyas_PR-1.png "Megépített áramkör")
 
