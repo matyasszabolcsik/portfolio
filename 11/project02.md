@@ -14,3 +14,6 @@
 |Ellenállás|R3|3k|1|
 |Ellenállás|R4|4k|1|
 |Ellenállás|R5|5k|1|
+
+#### A szimulációs mérés eredménye
+![Rajz](SzabolcsikMatyas_PR-1-1.png "Az áramkör mérési eredménye")
