@@ -5,6 +5,7 @@
 #### a) Szimulációs méréssel (TINA)
 #### b) Valós méréssel (laborban)
 #### c) Számítás (delta/csillag átalakítással)
+
 #### Kapcsolási rajz
 ![Rajz](SzabolcsikMatyas_PR-1.png "Megépített áramkör")
 
@@ -24,3 +25,7 @@
 
 #### A szimulációs mérés eredménye
 ![Rajz](SzabolcsikMatyas_PR-1-1.png "Az áramkör mérési eredménye")
+
+## Önreflexio
+#### A project nagyon jól szemléltette és segített megértetni a tananyagot
+
